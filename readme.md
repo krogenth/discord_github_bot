@@ -27,3 +27,9 @@ Create your own discord bot through the [discord developer portal](https://disco
 First, create a new application, then add a bot to the application.
 The token for the bot can be revealed under the `BUILD-A-BOT` section.
 This value should replace the `discord_token` value in `config.ron`.
+
+Once the bot is running and a member of the discord server, paste a github line with lines, for example:
+
+```
+https://github.com/krogenth/discord_github_bot/blob/main/src/main.rs#L1-L10
+```
